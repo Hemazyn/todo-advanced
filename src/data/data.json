@@ -1,0 +1,324 @@
+{
+	"boards": [
+		{
+			"name": "Frontend Journey",
+			"isActive": false,
+			"columns": [
+				{
+					"name": "Basic",
+					"tasks": [
+						{
+							"title": "Getting started with web development",
+							"description": "",
+							"status": "Todo",
+							"subtasks": [
+								{
+									"title": "What`s HTML",
+									"isCompleted": true
+								},
+								{
+									"title": "What`s CSS",
+									"isCompleted": false
+								},
+								{
+									"title": "What`s javaScript",
+									"isCompleted": false
+								}
+							]
+						},
+						{
+							"title": "Learning Process",
+							"description": "",
+							"status": "Todo",
+							"subtasks": [
+								{
+									"title": "HTML Full Course",
+									"isCompleted": false
+								},
+								{
+									"title": "CSS Full Course",
+									"isCompleted": false
+								},
+								{
+									"title": "JavaScript Full Course",
+									"isCompleted": false
+								}
+							]
+						},
+						{
+							"title": "Diving deep",
+							"description": "",
+							"status": "Todo",
+							"subtasks": [
+								{
+									"title": "Html 5",
+									"isCompleted": false
+								},
+								{
+									"title": "CSS 3",
+									"isCompleted": false
+								},
+								{
+									"title": "ES6",
+									"isCompleted": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Intermediate",
+					"tasks": [
+						{
+							"title": "Web Development Fundamentals",
+							"description": "",
+							"status": "Doing",
+							"subtasks": [
+								{
+									"title": "Http vs Https",
+									"isCompleted": true
+								},
+								{
+									"title": "SEO",
+									"isCompleted": true
+								},
+								{
+									"title": "Responsive Web Design",
+									"isCompleted": false
+								}
+							]
+						},
+						{
+							"title": "Other stacks to learn",
+							"description": "",
+							"status": "Doing",
+							"subtasks": [
+								{
+									"title": "Bootstrap",
+									"isCompleted": true
+								},
+								{
+									"title": "Git",
+									"isCompleted": true
+								},
+								{
+									"title": "Sass",
+									"isCompleted": false
+								}
+							]
+						},
+						{
+							"title": "Dive deep with Great tutors",
+							"description": "",
+							"status": "Doing",
+							"subtasks": [
+								{
+									"title": "Freecodecamp",
+									"isCompleted": true
+								},
+								{
+									"title": "Academind",
+									"isCompleted": false
+								},
+								{
+									"title": "Programming with Mosh",
+									"isCompleted": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Expert",
+					"tasks": [
+						{
+							"title": "Intro to Git, Github",
+							"status": "Done",
+							"subtasks": [
+								{
+									"title": "Software & Service",
+									"isCompleted": true
+								}
+							]
+						},
+						{
+							"title": "Intro to Tailwind",
+							"status": "Done",
+							"subtasks": [
+								{
+									"title": "Perfect styling",
+									"isCompleted": true
+								}
+							]
+						},
+						{
+							"title": "Intro to Node, npm",
+							"status": "Done",
+							"subtasks": [
+								{
+									"title": "Package managers",
+									"isCompleted": true
+								},
+								{
+									"title": "npm start",
+									"isCompleted": true
+								},
+								{
+									"title": "npm run dev",
+									"isCompleted": true
+								}
+							]
+						},
+						{
+							"title": "Intro to RaectJs",
+							"description": "",
+							"status": "Done",
+							"subtasks": [
+								{
+									"title": "Create React app",
+									"isCompleted": true
+								},
+								{
+									"title": "create-react-app ./",
+									"isCompleted": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Mastering ReactJs",
+			"isActive": false,
+			"columns": [
+				{
+					"name": "Todo",
+					"tasks": [
+						{
+							"title": "Intro to ReactJS",
+							"description": "",
+							"status": "Todo",
+							"subtasks": [
+								{
+									"title": "What react is",
+									"isCompleted": false
+								},
+								{
+									"title": "Setup environment",
+									"isCompleted": false
+								},
+								{
+									"title": "JSX",
+									"isCompleted": false
+								},
+								{
+									"title": "Components",
+									"isCompleted": false
+								},
+								{
+									"title": "State",
+									"isCompleted": false
+								},
+								{
+									"title": "Props",
+									"isCompleted": false
+								}
+							]
+						},
+						{
+							"title": "Diving deep",
+							"description": "",
+							"status": "",
+							"subtasks": [
+								{
+									"title": "List & Keys",
+									"isCompleted": false
+								},
+								{
+									"title": "Life Cycle Method",
+									"isCompleted": false
+								},
+								{
+									"title": "Styling",
+									"isCompleted": false
+								},
+								{
+									"title": "Form Handling",
+									"isCompleted": false
+								},
+								{
+									"title": "Data Handling",
+									"isCompleted": false
+								},
+								{
+									"title": "Hooks",
+									"isCompleted": false
+								},
+								{
+									"title": "Custom Hooks",
+									"isCompleted": false
+								},
+								{
+									"title": "Context",
+									"isCompleted": false
+								},
+								{
+									"title": "Portals",
+									"isCompleted": false
+								},
+								{
+									"title": "Routing",
+									"isCompleted": false
+								},
+								{
+									"title": "State Management",
+									"isCompleted": false
+								},
+								{
+									"title": "Patterns",
+									"isCompleted": false
+								},
+								{
+									"title": "Anti Patterns",
+									"isCompleted": false
+								}
+							]
+						},
+						{
+							"title": "Great Tutors to learn from",
+							"description": "",
+							"status": "",
+							"subtasks": [
+								{
+									"title": "Frecodecamp",
+									"isCompleted": false
+								},
+								{
+									"title": "DevEd",
+									"isCompleted": false
+								},
+								{
+									"title": "Academind",
+									"isCompleted": false
+								},
+								{
+									"title": "Simplylearn",
+									"isCompleted": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Doing",
+					"tasks": []
+				},
+				{
+					"name": "Done",
+					"tasks": []
+				}
+			]
+		}
+	]
+}
