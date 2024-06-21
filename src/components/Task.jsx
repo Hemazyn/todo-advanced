@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable react/prop-types */
 import React, { useState } from "react";
 import { useSelector } from "react-redux";
 import TaskModal from "../modals/TaskModal";

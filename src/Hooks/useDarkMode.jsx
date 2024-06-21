@@ -1,5 +1,5 @@
 /* eslint-disable no-unused-vars */
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 
 function useDarkMode() {
      const [theme, setTheme] = useState(localStorage.theme);
