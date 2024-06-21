@@ -4,7 +4,7 @@ Kanban Board is a task management application designed to help teams and individ
 
 ## Table of Contents
 - [Overview](#overview)
-- [Pewview](#preview)
+- [Preview](#preview)
 - [Link](#link)
 - [Features](#features)
 - [Project Structure](#project-structure)
